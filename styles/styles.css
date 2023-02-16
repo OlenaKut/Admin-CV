@@ -47,9 +47,6 @@ body {
 }
 
 /* project styles */
-.projects {
-	margin-bottom: 30px;
-}
 
 .title {
 	font-style: normal;
@@ -57,7 +54,7 @@ body {
 	font-size: 22px;
 	line-height: 27px;
 	color: #000000;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 .projects-list {
