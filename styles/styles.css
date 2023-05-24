@@ -43,7 +43,7 @@ body {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
-	color: #595959;
+	color: #343232;
 }
 
 /* project styles */
@@ -76,7 +76,7 @@ body {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
-	color: #595959;
+	color: #343232;
 }
 
 .project-link {
@@ -139,7 +139,11 @@ body {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
-	color: #595959;
+	color: #343232;
+}
+.language {
+	font-size: 14px;
+	margin-bottom: 0;
 }
 
 /* education */
@@ -157,7 +161,6 @@ body {
 	font-size: 14px;
 	line-height: 17px;
 	color: #000000;
-	margin-bottom: 10px;
 }
 
 /* sidebar styles */
