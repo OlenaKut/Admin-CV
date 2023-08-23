@@ -42,7 +42,7 @@ body {
 	font-style: normal;
 	font-weight: 600;
 	font-size: 18px;
-	line-height: 24px;
+	line-height: 28px;
 	color: #252425;
 }
 
@@ -137,12 +137,13 @@ body {
 .work-list-item {
 	font-style: normal;
 	font-weight: 500;
-	font-size: 16px;
-	line-height: 26px;
+	font-size: 18px;
+	line-height: 28px;
 	color: #252425;
 }
 .language {
-	font-size: 16px;
+	font-size: 18px;
+	line-height: 28px;
 	margin-bottom: 0;
 }
 
@@ -168,11 +169,11 @@ body {
 .sidebar {
 	background-color: #1e2939;
 	padding-top: 30px;
-	width: 280px;
+	width: 300px;
 }
 
 .photo {
-	width: 280px;
+	width: 300px;
 	margin-bottom: 30px;
 }
 .sidebar-title {
