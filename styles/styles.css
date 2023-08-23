@@ -7,14 +7,14 @@ body {
 .main {
 	display: flex;
 	flex-direction: row-reverse;
-	width: 1200px;
+	width: 1400px;
 	margin: 0 auto;
 }
 
 .main-content {
 	background-color: #ffffff;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-	padding: 25px 60px 0;
+	padding: 5px 30px 0;
 }
 
 /* about styles */
@@ -25,7 +25,7 @@ body {
 .about-position {
 	font-style: normal;
 	font-weight: 700;
-	font-size: 14px;
+	font-size: 20px;
 	line-height: 17px;
 	color: #000000;
 }
@@ -41,9 +41,9 @@ body {
 .about-discription {
 	font-style: normal;
 	font-weight: 400;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 24px;
-	color: #343232;
+	color: #252425;
 }
 
 /* project styles */
@@ -51,7 +51,7 @@ body {
 .title {
 	font-style: normal;
 	font-weight: 700;
-	font-size: 22px;
+	font-size: 24px;
 	line-height: 27px;
 	color: #000000;
 	margin-bottom: 20px;
@@ -99,15 +99,15 @@ body {
 .work-position {
 	font-style: normal;
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 20px;
 	color: #000000;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 .organization {
 	font-style: normal;
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 20px;
 	color: #fb6d3a;
 }
@@ -115,16 +115,16 @@ body {
 .period {
 	font-style: normal;
 	font-weight: 400;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 15px;
-	color: #a8a8a8;
+	color: #5f5e5e;
 	margin-bottom: 10px;
 }
 
 .line {
 	font-style: normal;
 	font-weight: 400;
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 15px;
 	color: #000000;
 }
@@ -137,12 +137,12 @@ body {
 .work-list-item {
 	font-style: normal;
 	font-weight: 400;
-	font-size: 14px;
-	line-height: 24px;
-	color: #343232;
+	font-size: 16px;
+	line-height: 26px;
+	color: #252425;
 }
 .language {
-	font-size: 14px;
+	font-size: 16px;
 	margin-bottom: 0;
 }
 
@@ -150,16 +150,16 @@ body {
 .university {
 	font-style: normal;
 	font-weight: 700;
-	font-size: 16px;
-	line-height: 20px;
+	font-size: 20px;
+	line-height: 24px;
 	color: #fb6d3a;
 }
 
 .specialty {
 	font-style: normal;
 	font-weight: 700;
-	font-size: 14px;
-	line-height: 17px;
+	font-size: 18px;
+	line-height: 22px;
 	color: #000000;
 }
 
@@ -167,13 +167,13 @@ body {
 
 .sidebar {
 	background-color: #1e2939;
-	padding-top: 40px;
-	width: 340px;
+	padding-top: 30px;
+	width: 280px;
 }
 
 .photo {
-	width: 340px;
-	margin-bottom: 50px;
+	width: 280px;
+	margin-bottom: 30px;
 }
 .sidebar-title {
 	color: #ffffff;
@@ -187,7 +187,7 @@ body {
 .contacts,
 .tech-skills,
 .soft-skills {
-	margin-left: 40px;
+	margin-left: 20px;
 }
 
 .contacts {
@@ -225,8 +225,8 @@ body {
 	color: #ffffff;
 	font-style: normal;
 	font-weight: 400;
-	font-size: 14px;
-	line-height: 24px;
+	font-size: 16px;
+	line-height: 26px;
 }
 
 .soft-skills-list {
@@ -242,7 +242,7 @@ body {
 .soft-skills-text {
 	font-style: normal;
 	font-weight: 400;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 24px;
 	color: #ffffff;
 }
