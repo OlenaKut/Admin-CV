@@ -40,8 +40,8 @@ body {
 
 .about-discription {
 	font-style: normal;
-	font-weight: 400;
-	font-size: 16px;
+	font-weight: 600;
+	font-size: 18px;
 	line-height: 24px;
 	color: #252425;
 }
@@ -109,15 +109,15 @@ body {
 	font-weight: 700;
 	font-size: 18px;
 	line-height: 20px;
-	color: #fb6d3a;
+	color: #c43f0f;
 }
 
 .period {
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 14px;
 	line-height: 15px;
-	color: #5f5e5e;
+	color: #474443;
 	margin-bottom: 10px;
 }
 
@@ -136,7 +136,7 @@ body {
 
 .work-list-item {
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 500;
 	font-size: 16px;
 	line-height: 26px;
 	color: #252425;
@@ -152,7 +152,7 @@ body {
 	font-weight: 700;
 	font-size: 20px;
 	line-height: 24px;
-	color: #fb6d3a;
+	color: #c43f0f;
 }
 
 .specialty {
@@ -208,7 +208,7 @@ body {
 	font-size: 14px;
 	line-height: 24px;
 	line-height: 141%;
-	color: #7d848f;
+	color: #ffffff;
 }
 
 .tech-skills-list {
@@ -218,7 +218,7 @@ body {
 }
 
 .tech-skills-item {
-	color: #fb6d3a;
+	color: #eb7a51;
 }
 
 .tech-skills-text {
@@ -249,5 +249,5 @@ body {
 
 .line {
 	font-weight: 800;
-	color: #fb6d3a;
+	color: #c43f0f;
 }
